@@ -1,5 +1,5 @@
 ## i'm minegamer72, but just call me bob
-coding is cool i guess.
+coding is cool i guess. <br>
 my personal website is [https://bobs-cool-site.neocities.org/](https://bobs-cool-site.neocities.org/) (warning: light theme)
 
 <!--
