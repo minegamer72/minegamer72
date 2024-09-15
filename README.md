@@ -1,6 +1,6 @@
 ## i'm minegamer72, but just call me bob
 coding is cool i guess.
-my personal website is [https://bobs-cool-site.neocities.org/](https://bobs-cool-site.neocities.org/)
+my personal website is [https://bobs-cool-site.neocities.org/](https://bobs-cool-site.neocities.org/) (warning: light theme)
 
 <!--
 **minegamer72/minegamer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
